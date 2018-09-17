@@ -1,4 +1,4 @@
-# WebDemo
+# Phoenix Server Demo
 
 To start your Phoenix server:
 
