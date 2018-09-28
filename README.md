@@ -1,20 +1,21 @@
 # Phoenix Server Demo
+An Elixir based demo server using Phoenix.
 
-To start your Phoenix server:
+### To start your Phoenix server:
 
-### Install dependencies
+#### Install dependencies
 ```
 mix deps.get
 ```
-### Create and migrate your database
+#### Create and migrate your database
 ```
 mix ecto.create && mix ecto.migrate
 ```
-### Install Node.js dependencies 
+#### Install Node.js dependencies 
 ```
 cd assets && npm install
 ```
-### Start Phoenix endpoint
+#### Start Phoenix endpoint
 ```
 mix phx.server
 ```
