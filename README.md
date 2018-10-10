@@ -1,4 +1,7 @@
 # Phoenix Server Demo
+
+![status completed](https://img.shields.io/badge/status-completed-blue.svg)
+
 An Elixir based demo server using Phoenix.
 
 ### To start your Phoenix server:
