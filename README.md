@@ -7,19 +7,19 @@
 ### To start your Phoenix server:
 
 #### Install dependencies
-```
+```sh
 mix deps.get
 ```
 #### Create and migrate your database
-```
+```sh
 mix ecto.create && mix ecto.migrate
 ```
 #### Install Node.js dependencies 
-```
+```sh
 cd assets && npm install
 ```
 #### Start Phoenix endpoint
-```
+```sh
 mix phx.server
 ```
 
