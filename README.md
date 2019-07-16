@@ -4,10 +4,6 @@
 
 > An elixir based demo server using Phoenix
 
-To start your Phoenix server:
-
-An Elixir based demo server using Phoenix.
-
 ### To start your Phoenix server:
 
 #### Install dependencies
